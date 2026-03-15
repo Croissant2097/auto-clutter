@@ -1,0 +1,7 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(find /Users/jerseyryou/Documents/Code/springboot3/src -type f -name \"*.java\" 2>/dev/null | head -50)"
+    ]
+  }
+}
